@@ -4,3 +4,4 @@ Estou a fazer alterações ao ficheiro
 
 Alterações efectuadas no branch 'NovaFeature'
 
+Alteração em Master
